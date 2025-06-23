@@ -14,7 +14,7 @@ A FMG Consulting oferece serviços nas áreas de:
 - Comunicação Estratégica & Reputação
 
 ## Acesse o site:
-👉 [https://seuusuario.github.io/fmg-consulting-site](https://seuusuario.github.io/fmg-consulting-site)
+👉 [https://fmg-consult.github.io/fmg-consulting-site](https://seuusuario.github.io/fmg-consulting-site)
 
 ## Contato:
 - 📞 WhatsApp: +55 11 97368-3101
