@@ -1,5 +1,5 @@
 # Fmg-consult-site
-Site for consultant in ESG.
+Consultoria em planejamento estratégico 
 # FMG Consulting | Flavio Goulart
 
 Site institucional da FMG Consulting.
